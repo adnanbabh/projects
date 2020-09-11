@@ -32,6 +32,8 @@
 //------------------------------------------------------------------------------
 ///
 /// Struct containing the QR info
+//
+struct _QRParameters_
 {
   int version_;
   int error_correction_level_;
