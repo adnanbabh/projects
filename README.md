@@ -8,6 +8,8 @@ some exercises we did for signal processing where we utilized numpy, scipy, etc.
 
 remibox//
 the code i wrote for remibox; i'm not sure if this was the final version since i have some files missing
+https://adnan.ba/remibox
 
 h.e.i.k.eremin v2//
 missing the code
+https://adnan.ba/heikev2
