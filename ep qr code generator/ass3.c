@@ -3,10 +3,10 @@
 //
 // Program for EP Assignment 3 WS18 - QR Code generator
 //
-// Group: Group 20065, study assistant Paul Nagele
+// Group: Group 20065, study assistant 
 //
 // Authors: Adnan Babahmetovic 01634163
-// Daniel Livingston 01631078
+// Daniel Livingston 
 //------------------------------------------------------------------------------
 //
 #include <stdio.h>
